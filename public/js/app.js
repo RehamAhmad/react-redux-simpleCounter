@@ -1,6 +1,6 @@
 import React from 'react';
-
-
-render(
-    <h1>Hello</h1>,document.getElementById('app')
+import Counter from './counter'
+import ReactDom from 'react-dom'
+ReactDom.render(
+    <Counter/>,document.getElementById('app')
 )
