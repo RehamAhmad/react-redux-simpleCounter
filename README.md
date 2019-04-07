@@ -2,12 +2,11 @@
 
 git clone https://github.com/RehamAhmad/react-redux-simpleCounter.git
 
-npm install
+npm install && 
 npm run serve
 
 
-run express server
-     node index.js
+run express server    -->node index.js
 
 
 open project on port 3000
