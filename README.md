@@ -7,7 +7,7 @@ npm run serve
 
 
 run express server
--- node index.js
+     node index.js
 
 
 open project on port 3000
